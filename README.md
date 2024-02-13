@@ -1,4 +1,4 @@
 # college-demo
 it is my first repository
 <br>
-this is change
+this is change of
